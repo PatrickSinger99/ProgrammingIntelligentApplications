@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+tensorboard/
+datasets/
+Data/
+task_2_embeddings/Data.zip
+trained_models/
+cifar10
+mnist
+task_4_rl_dynamic/curses-2.2.1+utf8-cp310-cp310-win_amd64.whl
+task_6_dqn/RL_pics/
+task_7_gnn/spotify_data/
+task_7_gnn/spotify_data.zip
